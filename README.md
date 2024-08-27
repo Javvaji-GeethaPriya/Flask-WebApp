@@ -14,15 +14,4 @@ This is a simple Flask web application built. The application demonstrates the c
 - **Responsive Design**: Basic HTML and CSS are used to ensure the app is accessible on different devices.
 - **Error Handling**: Proper error handling mechanisms are in place to manage user inputs and application flow.
 
-Flask-app/
-│
-├── website/
-│   ├── __init__.py           # Initializes the Flask app and its configurations
-│   ├── models.py             # Defines the database models (e.g., User)
-│   ├── routes.py             # Contains all the routes/views for the application
-│   ├── auth.py               # Handles authentication-related routes
-│   ├── templates/            # Contains HTML templates for rendering web pages
-│   ├── static/               # Contains static files like CSS, JavaScript, images
-│   └── ...
-
 
